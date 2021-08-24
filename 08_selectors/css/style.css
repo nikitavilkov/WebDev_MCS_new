@@ -1,0 +1,23 @@
+section {
+	color: royalblue;
+}
+
+div {
+	color: palevioletred;
+}
+
+.second {
+	color: rebeccapurple;
+}
+
+#section2 {
+	color: deeppink;
+}
+
+footer div {
+	color: seagreen;
+}
+
+nav, h1 {
+	color: mediumaquamarine;
+}
